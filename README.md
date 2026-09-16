@@ -1,14 +1,15 @@
 # Hi there, I'm Tamajit 👋
 
-Information Technology Student at Haldia Institute of Technology (B.Tech Lateral Entry). I build full-stack web applications, experiment with IoT systems, and deploy cloud architectures.
+Information Technology Student at Haldia Institute of Technology. I build full-stack web applications, experiment with IoT systems, and deploy cloud architectures.
 
 
 ### 🚀 What I'm Doing
-- 🎓 Pursuing **B.Tech in IT** at Haldia Institute of Technology *(2nd Year via Lateral Entry)*
+- 🎓 Pursuing **B.Tech in Information Technology** at Haldia Institute of Technology
 - 💻 Building full-stack projects using **Python**, **JavaScript**, and **SQL**
 - ☁️ Deploying containerized apps & exploring **Google Cloud Platform (GCP)** and **Kubernetes**
 - 🤖 Learning multi-agent systems and AI agent architectures
 - 🛠️ Prototyping hardware solutions with **ESP32** & **ESP8266** microcontrollers and embedded sensors
+
 
 
 ---
